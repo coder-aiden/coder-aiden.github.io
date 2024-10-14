@@ -28,4 +28,9 @@ export default navbar([
     icon: "book",
     link: "https://theme-hope.vuejs.press/zh/",
   },
+  {
+    text: "消息队列",
+    icon: "book",
+    link: "https://theme-hope.vuejs.press/zh/",
+  },
 ]);

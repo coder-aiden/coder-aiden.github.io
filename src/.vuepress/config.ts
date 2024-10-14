@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "程序员阿建",
+  title: "Aiden",
   description: "程序员阿建的技术空间",
 
   theme,
